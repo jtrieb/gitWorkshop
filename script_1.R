@@ -1,1 +1,5 @@
 library(raster)
+library(maptools)
+library(sp)
+library(rgeos)
+library(rgdal)
